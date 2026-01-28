@@ -1,0 +1,35 @@
+{ Using PSTWRITER 17.4.0 d001Jan-21-2026 at 10:27:27 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "CON1.8" ignored for CON1: SWM3310_V1.0, 003_CPU_CONNECTOR1 (193.04, 58.42). Connecting pin to net "CPU_GPIO_PD10".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "CON1.152" ignored for CON1: SWM3310_V1.0, 004_CPU_CONNTCTOR2 (175.26, 45.72). Connecting pin to net "CPU_GPIO_PD11".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.7" ignored for U10: SWM3310_V1.0, 014_OTHERS (88.90, 185.42). Connecting pin to net "GND".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.8" ignored for U10: SWM3310_V1.0, 014_OTHERS (88.90, 185.42). Connecting pin to net "GND".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.9" ignored for U10: SWM3310_V1.0, 014_OTHERS (88.90, 185.42). Connecting pin to net "GND".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "CON1.20" ignored for CON1: SWM3310_V1.0, 003_CPU_CONNECTOR1 (193.04, 58.42). Connecting pin to net "GND".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "CON1.40" ignored for CON1: SWM3310_V1.0, 003_CPU_CONNECTOR1 (193.04, 58.42). Connecting pin to net "FDCAN1_RX".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "CON1.61" ignored for CON1: SWM3310_V1.0, 003_CPU_CONNECTOR1 (193.04, 58.42). Connecting pin to net "FDCAN1_TX".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "CON1.31" ignored for CON1: SWM3310_V1.0, 003_CPU_CONNECTOR1 (193.04, 58.42). Connecting pin to net "LED_CAN1_TRIGGER_TX".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "CON1.29" ignored for CON1: SWM3310_V1.0, 003_CPU_CONNECTOR1 (193.04, 58.42). Connecting pin to net "LED_CAN1_TRIGGER_RX".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "CON1.192" ignored for CON1: SWM3310_V1.0, 004_CPU_CONNTCTOR2 (175.26, 45.72). Connecting pin to net "SYS_RST_IN".
+#12 WARNING(ORCAP-36042): Pin "VDDA33" is renamed to "VDDA33#5" as visible power pin of same name already exists in Package USB2512B/M2 , U1: SWM3310_V1.0, 005_USB_HUB (149.86, 58.42).
+#13 WARNING(ORCAP-36042): Pin "VDDA33" is renamed to "VDDA33#29" as visible power pin of same name already exists in Package USB2512B/M2 , U1: SWM3310_V1.0, 005_USB_HUB (149.86, 58.42).
+#14 WARNING(ORCAP-36042): Pin "VDD33" is renamed to "VDD33#36" as visible power pin of same name already exists in Package USB2512B/M2 , U1: SWM3310_V1.0, 005_USB_HUB (149.86, 58.42).
+#15 WARNING(ORCAP-36042): Pin "VDD33" is renamed to "VDD33#15" as visible power pin of same name already exists in Package USB2512B/M2 , U1: SWM3310_V1.0, 005_USB_HUB (149.86, 58.42).
+#16 WARNING(ORCAP-36042): Pin "VDDA33" is renamed to "VDDA33#10" as visible power pin of same name already exists in Package USB2512B/M2 , U1: SWM3310_V1.0, 005_USB_HUB (149.86, 58.42).
+#17 WARNING(ORCAP-36042): Pin "VDD33" is renamed to "VDD33#23" as visible power pin of same name already exists in Package USB2512B/M2 , U1: SWM3310_V1.0, 005_USB_HUB (149.86, 58.42).
+#18 WARNING(ORCAP-36042): Pin "AVDD33" is renamed to "AVDD33#7" as visible power pin of same name already exists in Package RTL8201F_0 , U2: SWM3310_V1.0, 006_ENET1_PHY_RTL8201F (213.36, 58.42).
+#19 WARNING(ORCAP-36042): Pin "AVDD33" is renamed to "AVDD33#30" as visible power pin of same name already exists in Package RTL8201F_0 , U2: SWM3310_V1.0, 006_ENET1_PHY_RTL8201F (213.36, 58.42).
+#20 WARNING(ORCAP-36042): Pin "AVDD33" is renamed to "AVDD33#1" as visible power pin of same name already exists in Package SR9900_3 , U3: SWM3310_V1.0, 008_ENET2_USB_SR9900AI (180.34, 78.74).
+#21 WARNING(ORCAP-36042): Pin "DVDD12" is renamed to "DVDD12#9" as visible power pin of same name already exists in Package SR9900_3 , U3: SWM3310_V1.0, 008_ENET2_USB_SR9900AI (180.34, 78.74).
+#22 WARNING(ORCAP-36042): Pin "AVDD33" is renamed to "AVDD33#10" as visible power pin of same name already exists in Package SR9900_3 , U3: SWM3310_V1.0, 008_ENET2_USB_SR9900AI (180.34, 78.74).
+#23 WARNING(ORCAP-36042): Pin "DVDD12" is renamed to "DVDD12#16" as visible power pin of same name already exists in Package SR9900_3 , U3: SWM3310_V1.0, 008_ENET2_USB_SR9900AI (180.34, 78.74).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... E:\BAIDUSYNCDISK\STM32MP1_20210326\SWM3310\V1.0_20260109\SCH\allegro\pstchip.dat
+
+Loading... E:\BAIDUSYNCDISK\STM32MP1_20210326\SWM3310\V1.0_20260109\SCH\allegro\pstchip.dat
+
+Loading... E:\BAIDUSYNCDISK\STM32MP1_20210326\SWM3310\V1.0_20260109\SCH\allegro\pstxprt.dat
+
+Loading... E:\BAIDUSYNCDISK\STM32MP1_20210326\SWM3310\V1.0_20260109\SCH\allegro\pstxnet.dat
+packaging the design view...

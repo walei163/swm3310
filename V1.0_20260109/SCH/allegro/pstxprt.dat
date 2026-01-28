@@ -1,0 +1,3727 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Jan-21-2026 at 10:27:27 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SWM3310_V1';
+ POST_TIME='Apr 21 2020 03:22:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ B1 'INDUCTOR_B0805_BLM21PG300SN1D':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785053@SANWAY_162.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785053@sanway_162.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785053@sanway_162.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B10 'INDUCTOR_B0805_BLM21PG300SN1D':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16905062@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16905062@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16905062@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B11 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927052@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927052@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927052@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B12 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927072@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927072@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927072@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B13 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927090@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927090@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927090@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B14 'INDUCTOR_B0805_BLM21PG300SN1D':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908491@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908491@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908491@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B15 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928606@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928606@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928606@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B16 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928626@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928626@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928626@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B17 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928644@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928644@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928644@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B18 'INDUCTOR_B0805_BLM21PG220SN1D':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16915194@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16915194@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16915194@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B19 'INDUCTOR_B0805_BLM21PG220SN1D':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16909736@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16909736@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16909736@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B2 'INDUCTOR_B0805_BLM21PG300SN1D':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794744@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794744@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794744@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B3 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921096@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921096@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16921096@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B4 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16920506@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16920506@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16920506@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B5 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16919382@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16919382@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16919382@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B6 'INDUCTOR_B0805_BLM21PG300SN1D':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906712@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906712@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906712@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B7 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921444@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921444@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16921444@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B8 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921460@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921460@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16921460@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B9 'INDUCTOR_FBMA-11-160808_FBMA-11-160808-601T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921478@ARMLIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921478@armlib.\inductor.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16921478@armlib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16778677@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16778677@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16778677@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16779392@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16779392@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16779392@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C100 'CAP_C0603_3.3PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908359@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908359@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908359@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C101 'CAP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908387@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908387@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908387@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C102 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908395@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908395@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908395@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C103 'CAP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908409@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908409@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908409@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C104 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908417@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908417@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908417@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C105 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908455@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908455@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908455@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C106 'CAP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908463@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908463@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908463@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C107 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908513@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908513@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908513@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C108 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908521@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908521@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908521@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C109 'CAP_C0805_10UF/10V':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908529@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908529@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908529@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16779400@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16779400@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16779400@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C110 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928371@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928371@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928371@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C111 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928334@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928334@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928334@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C112 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928444@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928444@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928444@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C113 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928495@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928495@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928495@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C114 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928582@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928582@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928582@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C115 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928590@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928590@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928590@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C116 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928762@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928762@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928762@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C117 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928770@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928770@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928770@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C118 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16807228@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16807228@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16807228@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C119 'CAP_C0603_15PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16858781@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16858781@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16858781@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16779408@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16779408@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16779408@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C120 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16858897@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16858897@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16858897@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C121 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16913254@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16913254@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16913254@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C122 'CAP_C0603_330PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16914165@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16914165@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16914165@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C123 'CAP_C0603_330PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16953761@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16953761@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16953761@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C124 'CAP_C0603_330PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16914196@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16914196@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16914196@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C125 'CAP_C0603_330PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16953886@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16953886@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16953886@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C128 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16925711@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16925711@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16925711@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C129 'CAP_C1206_22UF/25V':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16915323@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16915323@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16915323@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16779416@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16779416@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16779416@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C130 'CAP_C1210_10UF/35V':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16915337@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16915337@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16915337@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C131 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16915351@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16915351@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16915351@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C132 'CAP_C1206_22UF/25V':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16915707@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16915707@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16915707@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C133 'CAP_C1206_22UF/25V':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16916019@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16916019@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16916019@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C134 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16909838@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16909838@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16909838@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C135 'CAP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16909846@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16909846@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16909846@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C136 'CAP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16909818@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16909818@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16909818@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C137 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16909826@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16909826@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16909826@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C138 'CAP_C0603_20PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16909880@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16909880@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16909880@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C139 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16953155@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16953155@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16953155@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784552@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784552@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784552@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784544@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784544@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784544@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784999@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784999@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784999@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785007@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785007@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785007@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785085@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785085@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785085@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785113@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785113@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785113@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_C0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16779259@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16779259@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16779259@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785121@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785121@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785121@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785129@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785129@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785129@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785137@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785137@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785137@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_C0805_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785145@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785145@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785145@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785153@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785153@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785153@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785161@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785161@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785161@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794778@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794778@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794778@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794786@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794786@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794786@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP_C1210_10UF/35V':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16933964@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16933964@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16933964@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794838@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794838@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794838@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16779267@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16779267@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16779267@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794846@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794846@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794846@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794854@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794854@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794854@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794862@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794862@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794862@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794870@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794870@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794870@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795034@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795034@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795034@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795042@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795042@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795042@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795260@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795260@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795260@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795357@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795357@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795357@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828399@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828399@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828399@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828423@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828423@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828423@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_C0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16933420@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16933420@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16933420@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828437@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828437@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828437@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828461@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828461@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828461@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16827744@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16827744@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16827744@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16827752@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16827752@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16827752@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16919292@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16919292@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16919292@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921031@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921031@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16921031@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP_C0603_27PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906145@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906145@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906145@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP_C0603_27PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906185@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906185@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906185@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906247@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906247@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906247@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906520@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906520@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906520@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16933428@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16933428@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16933428@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906528@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906528@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906528@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906536@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906536@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906536@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP_C0603_3.3PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906580@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906580@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906580@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906608@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906608@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906608@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906616@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906616@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906616@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906630@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906630@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906630@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906638@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906638@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906638@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906676@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906676@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906676@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906684@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906684@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906684@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906734@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906734@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906734@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_C0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16933676@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16933676@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16933676@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906742@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906742@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906742@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP_C0805_10UF/10V':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906750@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906750@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906750@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C62 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830878@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830878@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830878@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C63 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830848@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830848@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830848@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C64 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830930@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830930@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830930@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830974@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830974@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830974@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C66 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830229@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830229@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830229@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C67 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830237@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830237@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830237@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C68 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921596@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921596@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16921596@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C69 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921604@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921604@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16921604@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16933684@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16933684@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16933684@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'CAP_C0603_27PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904545@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904545@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904545@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAP_C0603_27PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904585@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904585@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904585@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904639@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904639@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904639@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904870@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904870@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904870@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904878@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904878@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904878@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904886@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904886@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904886@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'CAP_C0603_3.3PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904930@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904930@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904930@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'CAP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904958@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904958@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904958@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904966@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904966@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904966@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'CAP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904980@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904980@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904980@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_C0603_330PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16779321@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16779321@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16779321@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904988@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904988@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904988@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16905026@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16905026@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16905026@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C82 'CAP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16905034@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16905034@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16905034@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16905084@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16905084@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16905084@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16905092@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16905092@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16905092@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP_C0805_10UF/10V':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16905100@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16905100@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16905100@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926817@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926817@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926817@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C87 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926780@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926780@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926780@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C88 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926890@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926890@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926890@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926941@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926941@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926941@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_C1210_10UF/35V':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16934120@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16934120@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16934120@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927028@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927028@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927028@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C91 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927036@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927036@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927036@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C92 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927208@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927208@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927208@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C93 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927216@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927216@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927216@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C94 'CAP_C0603_27PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16907928@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16907928@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16907928@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C95 'CAP_C0603_27PF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16907968@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16907968@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16907968@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C96 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908030@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908030@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908030@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C97 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908299@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908299@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908299@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C98 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908307@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908307@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908307@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C99 'CAP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908315@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908315@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908315@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CON1 'IDC200_IDC200_127_SMD_LK_1530EB_IDC200':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16769456@SANWAY_165.IDC200A.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16769456@sanway_165.\idc200a.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page4_ins16769456@sanway_165.\idc200a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16778413@SANWAY_165.IDC200B.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16778413@sanway_165.\idc200b.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16778413@sanway_165.\idc200b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ CY1 'CAP_CY_DE2E3KH222M':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16910441@ARMLIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16910441@armlib.\cap.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16910441@armlib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_SOD-323_LL4148':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16858709@ARMLIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16858709@armlib.\diode.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16858709@armlib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_SOD-323_LL4148':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16858739@ARMLIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16858739@armlib.\diode.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16858739@armlib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON9_SIP9-254_CON9':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16952419@CONNECTOR.CON9.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16952419@connector.\con9.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16952419@connector.\con9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ K1 'TVBM17-025BL-R_TVBM17_TVBM17-025BL-R':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16932868@SANWAY_166.TVBM17-025BL-R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16932868@sanway_166.\tvbm17-025bl-r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16932868@sanway_166.\tvbm17-025bl-r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'ACM2012-900-2P_ACM2012-2P_ACM2012-900-2P':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784428@SANWAY_162.ACM2012-900-2P.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784428@sanway_162.\acm2012-900-2p.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784428@sanway_162.\acm2012-900-2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L10 'CM2-2012MCIN_CM2-2012MCIN_CM2-2012MCIN-121T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928303@SANWAY_166.CM2-2012MCIN.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928303@sanway_166.\cm2-2012mcin.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928303@sanway_166.\cm2-2012mcin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L11 'CM2-2012MCIN_CM2-2012MCIN_CM2-2012MCIN-121T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928460@SANWAY_166.CM2-2012MCIN.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928460@sanway_166.\cm2-2012mcin.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928460@sanway_166.\cm2-2012mcin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L12 'INDUCTORS OF FERRITE_HEI252012A_HEI252012A-2R2M':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16909707@SANWAY_166.INDUCTORS OF FERRITE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16909707@sanway_166.\inductors of ferrite.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16909707@sanway_166.\inductors of ferrite.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'ACM2012-900-2P_ACM2012-2P_ACM2012-900-2P':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784564@SANWAY_162.ACM2012-900-2P.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784564@sanway_162.\acm2012-900-2p.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784564@sanway_162.\acm2012-900-2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'ACM2012-900-2P_ACM2012-2P_ACM2012-900-2P':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784645@SANWAY_162.ACM2012-900-2P.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784645@sanway_162.\acm2012-900-2p.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784645@sanway_162.\acm2012-900-2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'CM2-2012MCIN_CM2-2012MCIN_CM2-2012MCIN-121T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828156@SANWAY_166.CM2-2012MCIN.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828156@sanway_166.\cm2-2012mcin.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828156@sanway_166.\cm2-2012mcin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'CM2-2012MCIN_CM2-2012MCIN_CM2-2012MCIN-121T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828226@SANWAY_166.CM2-2012MCIN.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828226@sanway_166.\cm2-2012mcin.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828226@sanway_166.\cm2-2012mcin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'CM2-2012MCIN_CM2-2012MCIN_CM2-2012MCIN-121T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830822@SANWAY_166.CM2-2012MCIN.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830822@sanway_166.\cm2-2012mcin.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830822@sanway_166.\cm2-2012mcin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L7 'CM2-2012MCIN_CM2-2012MCIN_CM2-2012MCIN-121T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830946@SANWAY_166.CM2-2012MCIN.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830946@sanway_166.\cm2-2012mcin.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830946@sanway_166.\cm2-2012mcin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L8 'CM2-2012MCIN_CM2-2012MCIN_CM2-2012MCIN-121T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926749@SANWAY_166.CM2-2012MCIN.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926749@sanway_166.\cm2-2012mcin.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926749@sanway_166.\cm2-2012mcin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'CM2-2012MCIN_CM2-2012MCIN_CM2-2012MCIN-121T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926906@SANWAY_166.CM2-2012MCIN.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926906@sanway_166.\cm2-2012mcin.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926906@sanway_166.\cm2-2012mcin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784848@ARMLIB.LED.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784848@armlib.\led.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784848@armlib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED10 'LED_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16913821@ARMLIB.LED.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16913821@armlib.\led.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16913821@armlib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED2 'LED_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784910@ARMLIB.LED.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784910@armlib.\led.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784910@armlib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED3 'LED_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795449@ARMLIB.LED.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795449@armlib.\led.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795449@armlib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED4 'LED_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795526@ARMLIB.LED.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795526@armlib.\led.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795526@armlib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED5 'LED_LED0603_YELLOW':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16914792@ARMLIB.LED.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16914792@armlib.\led.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16914792@armlib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED6 'LED_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16914801@ARMLIB.LED.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16914801@armlib.\led.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16914801@armlib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED7 'LED_LED0603_YELLOW':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16913791@ARMLIB.LED.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16913791@armlib.\led.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16913791@armlib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED8 'LED_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16913666@ARMLIB.LED.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16913666@armlib.\led.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16913666@armlib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED9 'LED_LED0603_YELLOW':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16913812@ARMLIB.LED.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16913812@armlib.\led.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16913812@armlib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'MHOLE_MHOLE_250X160_MHOLE':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16910367@SANWAY_163.MHOLE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16910367@sanway_163.\mhole.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16910367@sanway_163.\mhole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'MHOLE_MHOLE_250X160_MHOLE':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16910374@SANWAY_163.MHOLE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16910374@sanway_163.\mhole.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16910374@sanway_163.\mhole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'MHOLE_MHOLE_250X160_MHOLE':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16910381@SANWAY_163.MHOLE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16910381@sanway_163.\mhole.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16910381@sanway_163.\mhole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'MHOLE_MHOLE_250X160_MHOLE':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16910388@SANWAY_163.MHOLE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16910388@sanway_163.\mhole.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16910388@sanway_163.\mhole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16771058@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16771058@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page4_ins16771058@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16779214@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16779214@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16779214@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R100 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926988@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926988@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926988@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926996@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926996@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926996@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R102 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927004@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927004@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927004@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R103 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927012@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927012@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927012@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927104@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927104@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927104@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R105 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927112@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927112@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927112@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R106 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927173@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927173@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927173@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R107 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927194@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927194@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927194@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R108 'R_R0603_2.49K(1%)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908006@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908006@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908006@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R109 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908172@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908172@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908172@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16779246@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16779246@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16779246@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R110 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908014@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908014@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908014@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R111 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908052@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908052@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908052@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R112 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908145@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908145@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908145@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908200@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908200@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908200@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R114 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908228@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908228@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908228@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R115 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908256@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908256@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908256@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R116 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908264@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908264@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908264@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R117 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928295@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928295@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928295@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R118 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928390@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928390@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928390@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R119 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928421@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928421@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928421@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784420@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784420@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784420@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R120 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928514@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928514@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928514@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R121 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928542@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928542@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928542@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R122 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928550@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928550@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928550@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R123 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928558@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928558@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928558@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R124 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928566@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928566@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928566@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R125 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928658@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928658@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928658@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R126 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928666@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928666@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928666@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R127 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928727@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928727@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928727@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R128 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928748@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928748@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928748@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R129 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16807134@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16807134@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16807134@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784536@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784536@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784536@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R130 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16807161@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16807161@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16807161@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R131 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16807190@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16807190@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16807190@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R132 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16807212@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16807212@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16807212@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R133 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16807220@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16807220@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16807220@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R134 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16858851@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16858851@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16858851@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R135 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16858868@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16858868@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16858868@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R136 'R_R0603_33':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16913296@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16913296@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16913296@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R137 'R_R0603_33':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16953739@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16953739@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16953739@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R138 'R_R0603_33':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16913336@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16913336@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16913336@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R139 'R_R0603_33':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16953864@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16953864@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16953864@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784526@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784526@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784526@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R140 'R_R0603_33':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16913378@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16913378@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16913378@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R141 'R_R0603_33':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16953989@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16953989@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16953989@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R142 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16914704@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16914704@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16914704@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R143 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16914717@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16914717@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16914717@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R144 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16914735@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16914735@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16914735@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R145 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16914743@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16914743@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16914743@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R146 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16914761@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16914761@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16914761@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R147 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16914769@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16914769@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16914769@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R148 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16937625@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16937625@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16937625@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R149 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16937638@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16937638@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16937638@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784579@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784579@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784579@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R152 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16937814@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16937814@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16937814@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R153 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16937822@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16937822@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16937822@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R154 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16937840@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16937840@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16937840@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R155 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16937848@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16937848@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16937848@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R156 'R_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16909699@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16909699@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16909699@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R157 'R_R0603_450K(1%)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16941751@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16941751@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16941751@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R158 'R_R0603_100K(1%)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16909858@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16909858@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16909858@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R159 'R_R1210_10M':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16910423@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16910423@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16910423@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784603@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784603@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784603@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R160 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16953107@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16953107@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16953107@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784633@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784633@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784633@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784660@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784660@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784660@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784680@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784680@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784680@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16771074@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16771074@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page4_ins16771074@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784830@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784830@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784830@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784856@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784856@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784856@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784864@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784864@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784864@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784888@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784888@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784888@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_R0603_12.0K(1%)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784918@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784918@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784918@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784926@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784926@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784926@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16784979@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16784979@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16784979@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_R0603_22':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785037@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785037@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785037@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794880@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794880@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794880@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_R0603_2.49K(1%)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794963@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794963@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794963@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16771090@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16771090@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page4_ins16771090@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795050@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795050@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795050@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795058@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795058@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795058@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795074@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795074@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795074@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795096@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795096@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795096@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795128@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795128@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795128@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795153@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795153@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795153@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795186@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795186@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795186@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_R0603_22':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795237@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795237@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795237@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795272@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795272@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795272@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_R0603_22(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795282@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795282@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795282@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16771106@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16771106@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page4_ins16771106@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795294@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795294@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795294@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_R0603_22':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795328@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795328@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795328@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_R0603_4.7K(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795341@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795341@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795341@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795349@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795349@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795349@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_R0603_4.7K(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795383@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795383@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795383@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795391@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795391@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795391@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795416@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795416@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795416@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_R0603_4.7K(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795424@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795424@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795424@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795473@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795473@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795473@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795457@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795457@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795457@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16770254@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16770254@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page4_ins16770254@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_R0603_4.7K(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795465@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795465@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795465@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795496@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795496@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795496@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795534@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795534@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795534@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795544@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795544@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795544@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828148@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828148@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828148@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828190@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828190@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828190@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828206@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828206@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828206@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828248@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828248@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828248@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16827700@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16827700@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16827700@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16827708@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16827708@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16827708@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16770270@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16770270@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page4_ins16770270@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16827716@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16827716@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16827716@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16827724@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16827724@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16827724@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16919396@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16919396@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16919396@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16919404@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16919404@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16919404@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16919452@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16919452@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16919452@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16919591@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16919591@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16919591@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R66 'R_R0603_2.49K(1%)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906223@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906223@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906223@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906231@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906231@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906231@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R68 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906269@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906269@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906269@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R69 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906362@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906362@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906362@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16955501@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16955501@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page4_ins16955501@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906389@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906389@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906389@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R71 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906418@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906418@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906418@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R72 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906447@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906447@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906447@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R73 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906476@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906476@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906476@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R74 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906484@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906484@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906484@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R75 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830814@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830814@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830814@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R76 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830892@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830892@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830892@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R77 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830912@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830912@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830912@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R78 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830990@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830990@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830990@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R79 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830189@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830189@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830189@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16955509@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16955509@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page4_ins16955509@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R80 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830197@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830197@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830197@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R81 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830205@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830205@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830205@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R82 'R_R0603_49.9(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830213@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830213@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830213@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R83 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921492@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921492@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16921492@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R84 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921500@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921500@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16921500@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R85 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921723@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921723@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16921723@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R86 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921765@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921765@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16921765@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R87 'R_R0603_2.49K(1%)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904623@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904623@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904623@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R88 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904655@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904655@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904655@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R89 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904743@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904743@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904743@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_R0603_0(NC)':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16932732@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16932732@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page5_ins16932732@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R90 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904631@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904631@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904631@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R91 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904716@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904716@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904716@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904770@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904770@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904770@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R93 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904799@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904799@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904799@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'R_R0603_0':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904826@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904826@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904826@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R95 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904834@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904834@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904834@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926741@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926741@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926741@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R97 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926836@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926836@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926836@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R98 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926867@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926867@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926867@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R99 'R_R0805_2R2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926960@ARMLIB.R.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926960@armlib.\r.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926960@armlib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'HR871181AE_HR871181AE_HR871181AE':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16919232@SANWAY_166.HR871181AE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16919232@sanway_166.\hr871181ae.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16919232@sanway_166.\hr871181ae.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T2 'HR871181AE_HR871181AE_HR871181AE':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16921512@SANWAY_166.HR871181AE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16921512@sanway_166.\hr871181ae.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16921512@sanway_166.\hr871181ae.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T3 'HR871181AE_HR871181AE_HR871181AE':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16927124@SANWAY_166.HR871181AE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16927124@sanway_166.\hr871181ae.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16927124@sanway_166.\hr871181ae.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T4 'HR871181AE_HR871181AE_HR871181AE':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928678@SANWAY_166.HR871181AE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928678@sanway_166.\hr871181ae.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928678@sanway_166.\hr871181ae.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TVS1 'TVS4A_1_SO8-127_SLVU2.8-4.TBT':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16828166@UT-PPC.TVS4A_1.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16828166@\ut-ppc\.\tvs4a_1.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page8_ins16828166@\ut-ppc\.\tvs4a_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TVS2 'TVS4A_1_SO8-127_SLVU2.8-4.TBT':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16830832@UT-PPC.TVS4A_1.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16830832@\ut-ppc\.\tvs4a_1.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page10_ins16830832@\ut-ppc\.\tvs4a_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TVS3 'TVS4A_1_SO8-127_SLVU2.8-4.TBT':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16926759@UT-PPC.TVS4A_1.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16926759@\ut-ppc\.\tvs4a_1.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page12_ins16926759@\ut-ppc\.\tvs4a_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TVS4 'TVS4A_1_SO8-127_SLVU2.8-4.TBT':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16928313@UT-PPC.TVS4A_1.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16928313@\ut-ppc\.\tvs4a_1.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page14_ins16928313@\ut-ppc\.\tvs4a_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TVS5 'TVS-DIODE_SOD-15_SMBJ5.0A':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16937284@ARMLIB.TVS-DIODE.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16937284@armlib.\tvs-diode.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16937284@armlib.\tvs-diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'USB2512B/M2_SQFN-36_USB2512B/M2':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16903583@SANWAY_166.USB2512B/M2.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16903583@sanway_166.\usb2512b/m2.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16903583@sanway_166.\usb2512b/m2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'SN74ALVC245D_1_TSSOP20_SN74LVC245APW':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16952457@DCA-600_V10_151013.SN74ALVC245D_1.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16952457@\dca-600_v10_151013\.\sn74alvc245d_1.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16952457@\dca-600_v10_151013\.\sn74alvc245d_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'RTL8201F_0_RTL8201F_QFN32_RTL8201F':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16794907@DCA-210_V30_20230208.RTL8201F_0.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16794907@\dca-210_v30_20230208\.\rtl8201f_0.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16794907@\dca-210_v30_20230208\.\rtl8201f_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'SR9900_3_SR9900AI_QFN24_4X4_0P5_SR9900AI':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906321@FUXI_DTU_V20_20241124.SR9900_3.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906321@fuxi_dtu_v20_20241124.\sr9900_3.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906321@fuxi_dtu_v20_20241124.\sr9900_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'SR9900_3_SR9900AI_QFN24_4X4_0P5_SR9900AI':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904679@FUXI_DTU_V20_20241124.SR9900_3.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904679@fuxi_dtu_v20_20241124.\sr9900_3.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904679@fuxi_dtu_v20_20241124.\sr9900_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'SR9900_3_SR9900AI_QFN24_4X4_0P5_SR9900AI':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16908104@FUXI_DTU_V20_20241124.SR9900_3.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16908104@fuxi_dtu_v20_20241124.\sr9900_3.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16908104@fuxi_dtu_v20_20241124.\sr9900_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'SN74LVC1G126DCKT_0_SC-70_SN74LVC1G126DCKT':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16807142@SWM1800_V10_200628.SN74LVC1G126DCKT_0.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16807142@swm1800_v10_200628.\sn74lvc1g126dckt_0.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16807142@swm1800_v10_200628.\sn74lvc1g126dckt_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'PCF8563TS_0_SO-8_PCF8563T':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16858807@SWA3350_EB.PCF8563TS_0.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16858807@swa3350_eb.\pcf8563ts_0.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16858807@swa3350_eb.\pcf8563ts_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'SN74ALVC245D_1_TSSOP20_SN74LVC245APW':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16913262@DCA-600_V10_151013.SN74ALVC245D_1.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16913262@\dca-600_v10_151013\.\sn74alvc245d_1.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16913262@\dca-600_v10_151013\.\sn74alvc245d_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'WD20027MER_0_SOT23-5L_WD20027MER':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16909725@SWA113I_20250428.WD20027MER_0.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16909725@swa113i_20250428.\wd20027mer_0.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page16_ins16909725@swa113i_20250428.\wd20027mer_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'DSO531SR_0_DSO531SR_24MHZ':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16785015@SWA3350_CB.DSO531SR_0.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16785015@swa3350_cb.\dso531sr_0.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page6_ins16785015@swa3350_cb.\dso531sr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'VCO_0_DSO531SR_50MHZ':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16795219@FTU_DESIGN.VCO_0.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16795219@ftu_design.\vco_0.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page7_ins16795219@ftu_design.\vco_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y3 'XTAL1A_HCX-6SB_E6SB25.0000F20E35':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16906165@OTHERS.XTAL1A.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16906165@\others\.\xtal1a.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page9_ins16906165@\others\.\xtal1a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y4 'XTAL1A_HCX-6SB_E6SB25.0000F20E35':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16904565@OTHERS.XTAL1A.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16904565@\others\.\xtal1a.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page11_ins16904565@\others\.\xtal1a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y5 'XTAL1A_HCX-6SB_E6SB25.0000F20E35':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16907948@OTHERS.XTAL1A.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16907948@\others\.\xtal1a.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page13_ins16907948@\others\.\xtal1a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y6 '32.768KHZ_MC-306_32.768KHZ':;
+
+SECTION_NUMBER 1
+ '@SWM3310_V1.0_20260109.SWM3310_V1.0(SCH_1):INS16858821@ARMLIB.32.768KHZ.NORMAL(CHIPS)':
+ C_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):ins16858821@armlib.\32.768khz.normal\(chips)',
+ P_PATH='@\swm3310_v1.0_20260109\.\swm3310_v1.0\(sch_1):page15_ins16858821@armlib.\32.768khz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

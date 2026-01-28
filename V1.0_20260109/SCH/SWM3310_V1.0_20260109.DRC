@@ -1,0 +1,78 @@
+Date and Time : 01/21/26 10:25:37
+
+--------------------------------------------------
+Checking Schematic: SWM3310_V1.0
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Device Pin Mismatch 
+
+
+
+ This DRC is not valid for instance Mode 
+
+
+Checking for Overlapping Buses and Wires 
+
+
+
+ Checking for Port Pin Mismatch 
+
+
+
+Checking for Shorted Discrete Part 
+
+
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SWM3310_V1.0
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+Checking for Invalid Pin Numbers 
+
+
+
+Checking for Physically Shorted PACK-SHORT Pins 
+
+
+
+--------------------------------------------------
+Checking Entire Design: SWM3310_V1.0_20260109 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
